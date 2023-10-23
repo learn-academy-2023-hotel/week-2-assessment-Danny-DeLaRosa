@@ -10,25 +10,25 @@ Type your initials here to confirm you read the instructions:
 
 1. What is the difference between a parameter and an argument?
 
-Your answer:
+Your answer: a parameter is a placeholder for a variable, an argument is the invocation of the parameter that has a value.
 
-Researched answer:
+Researched answer: a parameter is a placeholder so it does not have a specific value,the parameter is the variable within a function. an argument is the value thats passed when you call a function.
 
 2. What is the difference between an object and a class?
 
-Your answer:
+Your answer: an object is a collection of data, its the blueprint of a finction. a class is a changeable property that contains objects within them.
 
-Researched answer:
+Researched answer: A class is an objects blueprint that defines its behavior. An object is a specific instance that was made from that class, it has a speciic behavior and holds unique data.
 
 3. What is iteration?
 
-Your answer:
+Your answer: an iteration is the process of code running over and over angain until a condition is met.
 
-Researched answer:
+Researched answer: The process of of repeating a statements for each item in a collection (arrays, objects) or until a certain condition is met.
 
 4. STRETCH: What is hoisting in JavaScript?
 
-Researched answer:
+Researched answer:  
 
 ## Looking Ahead: Terms for Next Week
 
